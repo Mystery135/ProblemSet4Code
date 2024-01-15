@@ -33,7 +33,7 @@ public class Person {
         return telephoneNumber;
     }
 
-    public void setTelephoneNumber(int telephoneNumber) {
+    public void setTelephoneNumber(long telephoneNumber) {
         this.telephoneNumber = telephoneNumber;
     }
 }
